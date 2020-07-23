@@ -1,0 +1,12 @@
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.deps.json
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.runtimeconfig.json
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.runtimeconfig.dev.json
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.dll
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.pdb
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.csprojAssemblyReference.cache
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.AssemblyInfoInputs.cache
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.AssemblyInfo.cs
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.csproj.CoreCompileInputs.cache
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.dll
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.pdb
+/Users/nathaliekato/Documents/Cursos/[UDEMY] C# Completo 2020 POO + Projetos /Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.genruntimeconfig.cache
